@@ -1,0 +1,1 @@
+Practicing K8s with the exercises from https://github.com/yohikofox/formation-infrastructure
