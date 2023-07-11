@@ -1,1 +1,1 @@
-Practicing K8s with the exercises from https://github.com/yohikofox/formation-infrastructure
+Practicing K8s and helm with the exercises from https://github.com/yohikofox/formation-infrastructure
