@@ -1,0 +1,12 @@
+apiVersion: cert-manager.io/v1
+kind: Certificate
+metadata: 
+  name: cert-chart-example.local
+spec: 
+  issuerRef: 
+    name: selfsigned-issuer
+    kind: ClusterIssuer
+  secretName: tls-chart-example.local
+  commonName: cert-chart-example.local
+  dnsNames:
+    - chart-example.local
